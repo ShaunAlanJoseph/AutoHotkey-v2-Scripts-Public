@@ -1,0 +1,49 @@
+Can be used to insert the following special letters:
+
+	a_accents := ["à", "â", "ɑ", "ɒ", "æ", "ã"]
+
+	a_cap_accents := ["À", "Â", "Æ"]
+
+	e_accents := ["é", "è", "ê", "ɛ", "ə", "ɜ", "ɛ̃", "ë"]
+
+	e_cap_accents := ["É", "È", "Ê", "Ë"]
+
+	i_accents := ["î", "ï", "ɪ"]
+
+	i_cap_accents := ["Î", "Ï"]
+
+	o_accents := ["ô", "œ", "ɔ", "ʊ", "ɔ̃"]
+
+	o_accents := ["Ô", "Œ"]
+
+	u_accents := ["ù", "û", "ʌ", "ũ", "ø"]
+
+	u_cap_accents := ["Ù", "Ù", "Ü"]
+
+	s_accents := ["ʃ"]
+
+	z_accents := ["ʒ"]
+
+	t_accents := ["θ", "ð"]
+
+	r_accents := ["ʁ"]
+
+	n_accents := ["ɲ","ŋ"]
+
+	d_accents := ["ð"]
+
+	c_accents := ["ç"]
+
+	c_cap_accents := ["Ç"]
+
+For the uncapitalised letters the hotkey is: Left Shift + Right Shift + letter
+For the capitalised letters the hotkey is: Ctrl + Left Shift + Right Shift + letter
+
+	1) the hotkeys will bring up the gui with the variations for that letter
+	
+	2) while the gui is active, pressing the letter will cycle through its variations
+	
+	3) once on the desired variation of the letter, release either shift to insert it
+
+
+Note: for "u" the letter "y" can also be pressed
