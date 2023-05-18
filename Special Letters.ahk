@@ -159,6 +159,10 @@ accents_gui_cycle() {
     letter_hotkey("c_cap")
 }
 
+<^>^<+>+e:: {
+    ExitApp
+}
+
 letter_hotkey(letter_to_use) {
     global
     if (letter != letter_to_use) {

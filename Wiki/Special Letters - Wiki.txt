@@ -47,3 +47,6 @@ For the capitalised letters the hotkey is: Ctrl + Left Shift + Right Shift + let
 
 
 Note: for "u" the letter "y" can also be pressed
+
+
+Left Ctrl + Right Ctrl + Left Shift + Right Shift + e  -->  ExitApp
