@@ -1,8 +1,8 @@
-#Requires AutoHotkey v2.0
+﻿#Requires AutoHotkey v2.0
 
 #SingleInstance Force
 
-#NoTrayIcon
+;#NoTrayIcon
 
 SetWorkingDir(A_ScriptDir)
 
